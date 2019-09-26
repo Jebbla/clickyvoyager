@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "img": "assets/images/belanna.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "img": "assets/images/borgqueen.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "img": "assets/images/chakotay.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "img": "assets/images/harrykim.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "img": "assets/images/kjaneway.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "img": "assets/images/michaelsullivan.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "img": "assets/images/neelix.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "img": "assets/images/seven.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "img": "assets/images/species8472.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "img": "assets/images/thedoctor.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "img": "assets/images/tomparis.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "img": "assets/images/tuvok.jpg",
+        "clicked": false
+    }
+]
