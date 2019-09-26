@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clickyvoyager/static/css/main.88a849c5.chunk.css",
+    "main.js": "/clickyvoyager/static/js/main.00f265ac.chunk.js",
+    "main.js.map": "/clickyvoyager/static/js/main.00f265ac.chunk.js.map",
+    "runtime-main.js": "/clickyvoyager/static/js/runtime-main.24877f68.js",
+    "runtime-main.js.map": "/clickyvoyager/static/js/runtime-main.24877f68.js.map",
+    "static/js/2.738e08bd.chunk.js": "/clickyvoyager/static/js/2.738e08bd.chunk.js",
+    "static/js/2.738e08bd.chunk.js.map": "/clickyvoyager/static/js/2.738e08bd.chunk.js.map",
+    "index.html": "/clickyvoyager/index.html",
+    "precache-manifest.a99dfe41a82fd29232ca6408e20893c2.js": "/clickyvoyager/precache-manifest.a99dfe41a82fd29232ca6408e20893c2.js",
+    "service-worker.js": "/clickyvoyager/service-worker.js",
+    "static/css/main.88a849c5.chunk.css.map": "/clickyvoyager/static/css/main.88a849c5.chunk.css.map"
+  }
+}
