@@ -1,11 +1,16 @@
 {
   "name": "clickyvoyager",
   "version": "1.0.0",
+  "homepage": "https://jebbla.github.io/clickyvoyager/",
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "repository": {
     "type": "git",
@@ -16,5 +21,7 @@
   "bugs": {
     "url": "https://github.com/Jebbla/clickyvoyager/issues"
   },
-  "homepage": "https://github.com/Jebbla/clickyvoyager"
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
 }
